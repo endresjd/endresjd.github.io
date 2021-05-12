@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>John Endres</title><description>Trying to illustrate the obtuseness.</description><link>https://endresjd.github.io</link><language>en</language><lastBuildDate>Wed, 12 May 2021 11:34:31 -0400</lastBuildDate><pubDate>Wed, 12 May 2021 11:34:31 -0400</pubDate><ttl>250</ttl><atom:link href="https://endresjd.github.io/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://endresjd.github.io/posts/README</guid><title>README</title><description>Sundell's README.</description><link>https://endresjd.github.io/posts/README</link><pubDate>Wed, 12 May 2021 11:33:08 -0400</pubDate><content:encoded><![CDATA[<p class="post date">Wednesday, May 12, 2021 at 11:33 AM</p><p align="center">
-    <img src="../../Resources/images/Logo.png" width="400" max-width="90%" alt="Publish" />
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content"><channel><title>John Endres</title><description>Trying to illustrate the obtuseness.</description><link>https://endresjd.github.io</link><language>en</language><lastBuildDate>Wed, 12 May 2021 11:43:07 -0400</lastBuildDate><pubDate>Wed, 12 May 2021 11:43:07 -0400</pubDate><ttl>250</ttl><atom:link href="https://endresjd.github.io/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://endresjd.github.io/posts/README</guid><title>README</title><description>Sundell's README.</description><link>https://endresjd.github.io/posts/README</link><pubDate>Wed, 12 May 2021 11:42:21 -0400</pubDate><content:encoded><![CDATA[<p class="post date">Wednesday, May 12, 2021 at 11:42 AM</p><p align="center">
+    <img src="../../images/Logo.png" width="400" max-width="90%" alt="Publish relative" />
 </p><p align="center">
     <img src="images/Logo.png" width="400" max-width="90%" alt="Publish local" />
+</p><p align="center">
+    <img src="https://endresjd.github.io/images/Logo.png" width="400" max-width="90%" alt="Publish absolute" />
 </p><p align="center">
     <img src="https://img.shields.io/badge/Swift-5.4-orange.svg" />
     <a href="https://swift.org/package-manager">
