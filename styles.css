@@ -26,12 +26,12 @@ body {
 }
 
 header {
-    background-color: #0ee;
+    background-color: #0066ff;
 }
 
 header .wrapper {
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     text-align: center;
 }
 
@@ -40,13 +40,14 @@ header a {
 }
 
 header .site-name {
-    font-size: 1.5em;
-    color: #00F;
+    font-size: 2.0em;
+    color: #1aff1a;
     font-weight: bold;
 }
 
 nav {
     margin-top: 20px;
+    color: #1aff1a;
 }
 
 nav li {
@@ -60,7 +61,6 @@ nav li a.selected {
 }
 
 h1 {
-/*    margin-top: 20px;*/
     margin-bottom: 20px;
     font-size: 2em;
 }
