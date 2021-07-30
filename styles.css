@@ -1,6 +1,6 @@
 /**
-*  Publish Foundation theme
-*  Copyright (c) John Sundell 2019
+*  Endres theme
+*  Copyright (c) John Endres 2021
 *  MIT license, see LICENSE file for details
 */
 
@@ -26,12 +26,12 @@ body {
 }
 
 header {
-    background-color: #eee;
+    background-color: #0066ff;
 }
 
 header .wrapper {
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     text-align: center;
 }
 
@@ -40,13 +40,14 @@ header a {
 }
 
 header .site-name {
-    font-size: 1.5em;
-    color: #000;
+    font-size: 2.0em;
+    color: #1aff1a;
     font-weight: bold;
 }
 
 nav {
     margin-top: 20px;
+    color: #1aff1a;
 }
 
 nav li {
@@ -62,6 +63,10 @@ nav li a.selected {
 h1 {
     margin-bottom: 20px;
     font-size: 2em;
+}
+
+h1.john {
+    margin-top: 20px;
 }
 
 h2 {
@@ -166,4 +171,59 @@ footer {
     .wrapper {
         padding: 40px 20px;
     }
+}
+
+pre {
+    margin-bottom: 1.5em;
+    background-color: rgba(34, 37, 41, 1);
+    padding: 16px 0;
+    border-radius: 8px;
+}
+
+pre code {
+    font-family: monospace;
+    display: block;
+    padding: 0 20px;
+    color:  rgba(215, 215, 215, 1);
+    line-height: 1.4em;
+    font-size: 0.95em;
+    overflow-x: auto;
+    white-space: pre;
+    -webkit-overflow-scrolling: touch;
+}
+
+pre code .keyword {
+    color: rgba(252, 95, 193, 1);
+}
+
+pre code .type {
+    color: rgba(158, 241, 221, 1);
+}
+
+pre code .call {
+    color: rgba(158, 241, 221, 1);
+}
+
+pre code .property {
+    color: #21ab9d;
+}
+
+pre code .number {
+    color: rgba(200, 184, 106, 1);
+}
+
+pre code .string {
+    color: rgba(250, 106, 102, 1);
+}
+
+pre code .comment {
+    color: #6b8a94;
+}
+
+pre code .dotAccess {
+    color: rgba(158, 241, 221, 1);
+}
+
+pre code .preprocessing {
+    color: #b68a00;
 }
