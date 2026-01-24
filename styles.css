@@ -227,3 +227,9 @@ pre code .dotAccess {
 pre code .preprocessing {
     color: #b68a00;
 }
+
+.content ul,
+.content ol {
+    /* Styles for lists within article content */
+    padding-left: 20px;
+}
